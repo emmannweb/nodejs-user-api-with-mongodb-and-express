@@ -8,5 +8,6 @@ not be able to log. We could enhance the  features. But we Keep it like this for
 
 We used Postman to test our Routes API, feel free to use it too.
 
+*Run "npm install" to install the node packages.
 
 ##### Any questions or comments are welcome!
